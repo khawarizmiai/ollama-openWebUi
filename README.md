@@ -10,6 +10,6 @@ cd ollama-openWebUi
 ## Make the script executable and run it:
 
 ```bash
-chmod +x malkhatib-searxng.sh
-sudo ./malkhatib-searxng.sh
+chmod +x ollama-openwebui.sh
+sudo ./ollama-openwebui.sh
 ```
