@@ -4,7 +4,7 @@
 ## 1. Clone repo:
 
 ```bash
-git clone https://github.com/Yayouni/ollama-openWebUi.git
+git clone https://github.com/khawarizmiai/ollama-openWebUi.git
 cd ollama-openWebUi
 ```
 ## Make the script executable and run it:
